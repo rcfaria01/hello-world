@@ -1,2 +1,2 @@
 # hello-world
-Just a sample
+Hello everyone. This is so much fun. 
